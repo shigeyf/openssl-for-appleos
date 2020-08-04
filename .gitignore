@@ -1,0 +1,9 @@
+#
+#
+#
+
+bin
+lib
+include/openssl
+src
+*.tar.gz
